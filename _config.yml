@@ -11,7 +11,7 @@ permalink:        pretty
 title:            ISME
 tagline:          '修和无人见，存心有天知'
 description:      'Just for fun !'
-url:              http://shelldone.com
+url:              http://c3porobot.com
 
 author:
   name:           'ISME'
@@ -26,4 +26,4 @@ version:          1.0.0
 comments :
     provider : 
     duoshuo :
-      short_name : A
+      short_name : isme
