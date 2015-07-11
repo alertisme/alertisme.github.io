@@ -3,7 +3,7 @@ layout: post
 author: ISME
 title: 2015告别了北京回到了深圳。
 category: 技术博文
-tag: [jekyll]
+tag: [Blog]
 ---
 
 ##2015年，不一样的一年。
