@@ -2,8 +2,8 @@
 layout: post
 author: ISME
 title: 2015告别了北京回到了深圳。
-category: 技术博文
-tag: [Blog]
+category: 杂谈
+tag: [Change]
 ---
 
 ##2015年，不一样的一年。
