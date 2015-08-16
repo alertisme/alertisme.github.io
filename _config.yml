@@ -25,5 +25,5 @@ version:          1.0.0
 # duoshuo
 comments :
     provider : 
-    duoshuo :
-      short_name : isme
+#    duoshuo :
+#     short_name : isme
