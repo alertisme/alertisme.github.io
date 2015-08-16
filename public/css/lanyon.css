@@ -329,7 +329,7 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 /* 胡子*/
-svg {
+/*svg {
  
   left: 0;
   right: 0;
@@ -337,7 +337,7 @@ svg {
   height: 40px;
   display: block;
   margin: 0 auto;
-}
+}*/
 
 #mustache {
   position:absolute;
